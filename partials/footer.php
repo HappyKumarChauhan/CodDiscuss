@@ -1,0 +1,1 @@
+<footer class="bg-dark text-center text-light">Copyright &copy; CodDiscuss 2024. All rights reserved.</footer>
